@@ -1,4 +1,4 @@
-- 👋 I'm Abimbolasam
+- 👋 I'm Sam Abimbola 
 - 👀 I’m interested in cloud computing and liked the Tech savvy mindset 
 - 🌱 I’m currently learning github, copilot, AI and Cloud computing engineering 
 - 💞️ I’m looking to collaborate with mentors, individuals that are open to help with their hands on technology wise knowledge and will be glad to submit as the coachingor trainings enroute. .
